@@ -1,0 +1,15 @@
+{
+  "name": "check-webhook-validity",
+  "version": "1.0.0",
+  "description": "Sample code to code Yojee webhook validity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'tests/**/test-*.js'"
+  },
+  "author": "Yojee Ltd",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}
